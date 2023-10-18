@@ -1,0 +1,10 @@
+h1,h2{
+    font-size: 50px;
+}
+
+p{
+    font-weight: bold;
+    font-family: 'Lucida Sans Unicode';
+    font-variant: small-caps;
+    font-size: 20px;
+}

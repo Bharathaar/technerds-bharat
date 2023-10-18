@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+.my{
+    background-color: blue;
+    border-style: solid;
+    font-size: 30;
+    
+}
+.abc{
+    background-color: blueviolet;
+    border-style: dotted;
+
+}
+
+#i{
+    background-color: chartreuse;
+    background-color: blueviolet;
+    
+}
+
+h2,h3,h4,p{
+    background-color: crimson;
+    font-size: 30px;
+    text-align: left;
+}
